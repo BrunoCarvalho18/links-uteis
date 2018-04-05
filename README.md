@@ -26,4 +26,6 @@
 
 - https://www.devmedia.com.br/desenvolvimento-orientado-a-comportamento-bdd-com-cucumber/33547
 
+- https://ftstblog.wordpress.com/2018/03/27/cucumber-configuracao-windows/
+
 - MAVEN JENKINS CUCUMBER https://www.youtube.com/watch?v=EYFwSzsm13U
